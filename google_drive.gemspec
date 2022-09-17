@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name = 'google_drive'
+  s.name = 'google_drive2'
   s.version = '3.0.8'
-  s.authors = ['Hiroshi Ichikawa']
-  s.email = ['gimite+github@gmail.com']
+  s.authors = ['Hiroshi Ichikawa', 'Bumsoo Kim']
+  s.email = ['gimite+github@gmail.com', 'bskim45@gmail.com']
   s.summary = 'A library to read/write files/spreadsheets in Google Drive/Docs.'
   s.description = 'A library to read/write files/spreadsheets in Google Drive/Docs.'
-  s.homepage = 'https://github.com/gimite/google-drive-ruby'
+  s.homepage = 'https://github.com/bskim45/google-drive-ruby'
   s.rubygems_version = '1.2.0'
   s.license = 'BSD-3-Clause'
   s.required_ruby_version = '>= 2.0.0'
